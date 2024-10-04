@@ -1,0 +1,61 @@
+Grain,Machine Name,Manufacturer,Capacity (tons/hour),Power Output (kW),Dimensions (LxWxH in meters),Price (USD),Price (INR)
+Wheat,Wheat Flour Milling Machine,Buhler Group,100,200,10x3x4,1200000,99600000
+Rice,Rice Huller Machine,Satake Corporation,4,10,5x2x3,30000,2490000
+Oats,Oat Flaking Machine,CPM Roskamp Champion,10,25,8x2x3,80000,6640000
+Corn,Corn Milling Machine,Alvan Blanch,20,50,12x3x4,150000,12450000
+Wheat,Wheat De-stoner,Alvan Blanch,50,100,6x2x3,15000,1245000
+Rice,Rice Polishing Machine,Satake Corporation,5,15,4x1.5x2.5,25000,2075000
+Oats,Oat De-hulling Machine,Buhler Group,8,20,7x2x3,70000,5810000
+Corn,Corn Dryer,Sukup Manufacturing,10,30,10x2.5x3,55000,4565000
+Wheat,Wheat Bran Separator,Buhler Group,60,120,11x3x4,45000,3735000
+Rice,Rice Grading Machine,Alvan Blanch,3,5,4x1.5x2.5,20000,1660000
+Oats,Oat Groat Cutter,ArrowCorp,15,40,9x2.5x3,35000,2905000
+Corn,Corn Peeling Machine,Huantai Machinery,25,60,13x3x4,60000,4980000
+Wheat,Wheat Cleaning Machine,Milleral,30,80,7x2x3,40000,3320000
+Rice,Rice Whitener,Buhler Group,7,12,5x2x3,50000,4150000
+Oats,Oat Rolling Machine,ArrowCorp,12,35,10x2.5x3,75000,6225000
+Corn,Corn Grits Machine,Satake Corporation,18,70,14x3.5x4,110000,9130000
+Wheat,Wheat Blending Machine,Satake Corporation,45,90,8x2.5x3,100000,8300000
+Rice,Rice Husker,Buhler Group,6,25,5x2x3,35000,2905000
+Oats,Oat Steam Conditioner,ArrowCorp,14,45,10x2.5x3,90000,7470000
+Corn,Corn Steeping Tank,Alvan Blanch,22,65,15x3.5x4,130000,10790000
+Wheat,Wheat Grader,Buhler Group,55,110,12x3x4,120000,9960000
+Rice,Rice Sifter,Satake Corporation,8,15,6x2x3,40000,3320000
+Oats,Oat Sheller,ArrowCorp,11,30,9x2.5x3,80000,6640000
+Corn,Corn Grinder,Buhler Group,19,75,13x3x4,140000,11620000
+Wheat,Wheat Separator,Alvan Blanch,65,130,7x2x3,17000,1411000
+Rice,Rice Dryer,Huantai Machinery,9,20,5x2x3,60000,4980000
+Oats,Oat Mill,Buhler Group,13,50,11x3x4,85000,7055000
+Corn,Corn Degerminator,Satake Corporation,21,85,14x3.5x4,145000,12035000
+Wheat,Wheat Washer,ArrowCorp,35,40,9x2.5x3,18000,1494000
+Rice,Rice Destoner,Buhler Group,5,25,5x2x3,50000,4150000
+Oats,Oat Flour Mill,ArrowCorp,17,55,12x3x4,95000,7885000
+Corn,Corn Puffing Machine,Buhler Group,23,80,15x3.5x4,150000,12450000
+Wheat,Wheat Scourer,Milleral,85,140,10x3x4,115000,9545000
+Rice,Rice Whitening Machine,Satake Corporation,2,8,4x1.5x2.5,22000,1826000
+Oats,Oat Bran Finisher,ArrowCorp,16,60,10x2.5x3,82000,6806000
+Corn,Corn Flour Machine,Satake Corporation,20,100,16x4x5,170000,14110000
+Wheat,Wheat Peeler,Buhler Group,90,150,12x3x4,135000,11205000
+Rice,Rice Silky Polisher,Huantai Machinery,7,20,6x2x3,70000,5810000
+Oats,Oat Grain Polisher,ArrowCorp,9,40,9x2.5x3,77000,6391000
+Corn,Corn Sheller,Buhler Group,27,95,13x3x4,190000,15770000
+Wheat,Wheat Impactor,Buhler Group,95,160,11x3x4,125000,10375000
+Rice,Rice Separator,Satake Corporation,4,15,4x1.5x2.5,35000,2905000
+Oats,Oat Roller Mill,ArrowCorp,6,30,8x2.5x3,86000,7138000
+Corn,Corn Cooking Tank,Alvan Blanch,24,110,15x3.5x4,135000,11205000
+Wheat,Wheat Conditioning Machine,ArrowCorp,40,120,14x3.5x4,105000,8715000
+Rice,Rice Milling Machine,Huantai Machinery,12,25,5x2x3,50000,4150000
+Oats,Oat Husking Machine,ArrowCorp,15,50,9x2.5x3,88000,7304000
+Corn,Corn Flaking Machine,Buhler Group,30,125,16x4x5,155000,12865000
+Wheat,Wheat Whitening Machine,Milleral,105,170,12x3x4,90000,7470000
+Rice,Rice Sorter,Buhler Group,8,30,5x2x3,55000,4565000
+Oats,Oat Flour Milling Machine,ArrowCorp,18,65,10x2.5x3,95000,7885000
+Corn,Corn Wet Milling Machine,Satake Corporation,26,105,17x4x5,165000,13695000
+Wheat,Wheat Polishing Machine,Buhler Group,115,180,14x3.5x4,80000,6640000
+Rice,Rice Thresher,Satake Corporation,10,35,6x2x3,45000,3735000
+Oats,Oat Groat Cutter,ArrowCorp,13,60,11x3x4,89000,7387000
+Corn,Corn Extruder,Buhler Group,28,130,17x4x5,175000,14525000
+Wheat,Wheat Sieving Machine,Alvan Blanch,50,70,8x2x3,40000,3320000
+Rice,Rice Hull Separator,Huantai Machinery,11,35,6x2x3,70000,5810000
+Oats,Oat Bran Milling Machine,ArrowCorp,17,55,10x2.5x3,90000,7470000
+Corn,Corn Bran Separator,Satake Corporation,29,150,18x4.5x5.5,185000,15355000

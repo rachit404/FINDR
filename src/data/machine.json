@@ -1,0 +1,112 @@
+[
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Milling Machine",
+        "Manufacturer": "Huantai Machinery",
+        "Capacity (tons/hour)": 12,
+        "Power Output (kW)": 25,
+        "Dimensions (LxWxH in meters)": "5x2x3",
+        "Price (USD)": 50000,
+        "Price (INR)": 4150000,
+        "Score": 5
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Husker",
+        "Manufacturer": "Buhler Group",
+        "Capacity (tons/hour)": 6,
+        "Power Output (kW)": 25,
+        "Dimensions (LxWxH in meters)": "5x2x3",
+        "Price (USD)": 35000,
+        "Price (INR)": 2905000,
+        "Score": 4
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Dryer",
+        "Manufacturer": "Huantai Machinery",
+        "Capacity (tons/hour)": 9,
+        "Power Output (kW)": 20,
+        "Dimensions (LxWxH in meters)": "5x2x3",
+        "Price (USD)": 60000,
+        "Price (INR)": 4980000,
+        "Score": 4
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Whitener",
+        "Manufacturer": "Buhler Group",
+        "Capacity (tons/hour)": 7,
+        "Power Output (kW)": 12,
+        "Dimensions (LxWxH in meters)": "5x2x3",
+        "Price (USD)": 50000,
+        "Price (INR)": 4150000,
+        "Score": 3
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Polishing Machine",
+        "Manufacturer": "Satake Corporation",
+        "Capacity (tons/hour)": 5,
+        "Power Output (kW)": 15,
+        "Dimensions (LxWxH in meters)": "4x1.5x2.5",
+        "Price (USD)": 25000,
+        "Price (INR)": 2075000,
+        "Score": 3
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Separator",
+        "Manufacturer": "Satake Corporation",
+        "Capacity (tons/hour)": 4,
+        "Power Output (kW)": 15,
+        "Dimensions (LxWxH in meters)": "4x1.5x2.5",
+        "Price (USD)": 35000,
+        "Price (INR)": 2905000,
+        "Score": 3
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Sifter",
+        "Manufacturer": "Satake Corporation",
+        "Capacity (tons/hour)": 8,
+        "Power Output (kW)": 15,
+        "Dimensions (LxWxH in meters)": "6x2x3",
+        "Price (USD)": 40000,
+        "Price (INR)": 3320000,
+        "Score": 3
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Huller Machine",
+        "Manufacturer": "Satake Corporation",
+        "Capacity (tons/hour)": 4,
+        "Power Output (kW)": 10,
+        "Dimensions (LxWxH in meters)": "5x2x3",
+        "Price (USD)": 30000,
+        "Price (INR)": 2490000,
+        "Score": 2
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Grading Machine",
+        "Manufacturer": "Alvan Blanch",
+        "Capacity (tons/hour)": 3,
+        "Power Output (kW)": 5,
+        "Dimensions (LxWxH in meters)": "4x1.5x2.5",
+        "Price (USD)": 20000,
+        "Price (INR)": 1660000,
+        "Score": 1
+    },
+    {
+        "Grain": "Rice",
+        "Machine Name": "Rice Whitening Machine",
+        "Manufacturer": "Satake Corporation",
+        "Capacity (tons/hour)": 2,
+        "Power Output (kW)": 8,
+        "Dimensions (LxWxH in meters)": "4x1.5x2.5",
+        "Price (USD)": 22000,
+        "Price (INR)": 1826000,
+        "Score": 1
+    }
+]
